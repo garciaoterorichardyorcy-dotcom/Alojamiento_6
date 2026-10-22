@@ -5,30 +5,5 @@
 			"name": "Richard"
 		}
 	],
-	"models": [
-		{
-			"case_id": "pruebaalojamiento-7",
-			"client": "pruebaalojamiento 7",
-			"doctor_id": "richard_",
-			"expires_at_unix": 1795152150,
-			"file": "pruebaalojamiento-7-superior-1.stl",
-			"id": "pruebaalojamiento-7-superior-1",
-			"layer": "upper_1",
-			"name": "Arcada superior 1",
-			"version": "1795152150",
-			"z_up": false
-		},
-		{
-			"case_id": "pruebaalojamiento-7",
-			"client": "pruebaalojamiento 7",
-			"doctor_id": "richard_",
-			"expires_at_unix": 1795152150,
-			"file": "pruebaalojamiento-7-superior-2.stl",
-			"id": "pruebaalojamiento-7-superior-2",
-			"layer": "upper_2",
-			"name": "Arcada superior 2",
-			"version": "1795152150",
-			"z_up": false
-		}
-	]
+	"models": []
 }
